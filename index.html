@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2, viewport-fit=cover">
+<meta name="color-scheme" content="light">
+<meta name="description" content="原創第三人稱街區散步測試遊戲。原創概略場景・非實景測繪。">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self' data: blob:; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; connect-src 'self'; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'none'">
+<title>巷口散步｜3D 街區測試版</title>
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Crect width='48' height='48' rx='12' fill='%230e393b'/%3E%3Cpath d='M10 35V22l14-12 14 12v13H28V25h-8v10z' fill='%23f4c477'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="style.css">
+<script defer src="game.js"></script>
+</head>
+<body>
+<div id="world" aria-label="第三人稱 3D 街區遊戲畫面"></div>
+<div class="vignette" aria-hidden="true"></div>
+<header class="topbar">
+  <div class="brand"><span class="brand-mark" aria-hidden="true">巷</span><div><strong>巷口散步</strong><span>NEIGHBORHOOD WALK</span></div></div>
+  <div class="top-actions"><span class="local-badge"><i></i>公開測試版</span><button id="info-button" class="round-button" aria-label="場景說明與操作" title="說明（H）">?</button><button id="pause-button" class="round-button" aria-label="暫停遊戲" title="暫停（Esc）">Ⅱ</button></div>
+</header>
+<div id="compass" aria-label="視角方向"><span>西</span><b id="compass-heading">北</b><span>東</span><div class="compass-notch"></div></div>
+<div id="loading" role="status" aria-live="polite"><div class="loading-mark"></div><p id="loading-text">正在整理街角…</p><div class="load-track"><div id="load-progress"></div></div></div>
+<section id="welcome" class="welcome" aria-labelledby="welcome-title" hidden>
+  <p class="eyebrow">100 METERS, AT YOUR PACE</p>
+  <h1 id="welcome-title">走進日常，<br>慢慢散個步。</h1>
+  <p class="intro">帶著一個小小的自己，<br>在街屋、樹蔭與巷口之間走走。</p>
+  <div class="start-row"><button id="start-button" class="primary-button">開始散步 <span>ENTER</span></button><span class="start-note">第三人稱自由探索</span></div>
+  <p class="approx-note">原創概略場景・非實景測繪</p>
+</section>
+<section id="pause-screen" class="pause-screen" aria-labelledby="pause-title" hidden><div class="pause-card"><span class="eyebrow">TAKE A BREATH</span><h2 id="pause-title">在這裡歇一下</h2><p>街景等你。準備好了就繼續走。</p><button id="resume-button" class="primary-button">繼續散步 <span>ENTER</span></button><div class="pause-extra"><button id="reset-button">回到起點</button><button id="pause-help">操作與場景說明</button></div></div></section>
+<div id="game-hud" hidden>
+  <aside class="walk-status"><div class="walking-line"><span class="walking-icon" aria-hidden="true">↟</span><span id="pace-label">悠閒站立</span></div><div class="distance-row"><strong id="walk-distance">0</strong><span>m<br>散步路程</span></div><div class="status-divider"></div><p>離起點 <span id="centre-distance">0</span> m <span class="range-label">／ 半徑 100 m</span></p></aside>
+  <div class="control-strip"><span><kbd>W A S D</kbd> 走動</span><span><kbd>SHIFT</kbd> 快跑</span><span>拖曳轉視角 · 滾輪縮放</span><button id="lock-button" title="按 Esc 可解除滑鼠鎖定">鎖定視角</button></div>
+  <aside id="minimap-panel" class="minimap-panel" aria-label="概略街區小地圖"><div class="minimap-label"><span>街區縮圖</span><span>100 m</span></div><canvas id="minimap" width="400" height="400" aria-label="原創概略街區平面圖，圓點為起點，箭頭為目前位置"></canvas><div class="minimap-bottom"><span>↑ 北（示意）</span><span><kbd>M</kbd> 收起</span></div></aside>
+  <button id="map-toggle" class="map-toggle" hidden>展開小地圖 <kbd>M</kbd></button>
+  <div id="touch-controls"><div id="joystick" aria-label="拖動控制角色移動"><div id="joystick-stick"></div></div><button id="touch-sprint" aria-label="按住快跑">快跑</button><span class="touch-look-hint">拖曳右側轉動視角</span></div>
+</div>
+<div id="toast" role="status" aria-live="polite"></div>
+<footer class="scene-caption"><span>原創概略場景・非實景測繪</span><span id="render-status">WEB · 3D</span></footer>
+<dialog id="info-dialog" aria-labelledby="info-title"><button id="close-info" class="close-button" aria-label="關閉說明">×</button><p class="eyebrow">ABOUT THIS LITTLE WALK</p><h2 id="info-title">一小片街區，一段自己的步調。</h2><p class="info-lead">原創概略場景・非實景測繪</p><div class="info-grid"><section><h3>怎麼走</h3><dl><div><dt>WASD / 方向鍵</dt><dd>依照鏡頭方向走動</dd></div><div><dt>Shift</dt><dd>按住快跑</dd></div><div><dt>滑鼠拖曳 / 滾輪</dt><dd>轉動視角 / 拉近拉遠</dd></div><div><dt>Esc / Enter</dt><dd>暫停 / 繼續</dd></div><div><dt>R / M / H</dt><dd>回起點 / 小地圖 / 說明</dd></div></dl><p class="muted">觸控：左下搖桿移動，拖曳右側轉視角，按住「快跑」。</p></section><section><h3>關於這裡</h3><p>場景以起點為中心，設定半徑約 100 公尺的可走範圍。建物、道路、招牌與街道擺設皆為原創概略配置，不代表該地點的實際建築、店家、尺寸或道路位置。</p><p>沒有使用 Google 地圖、空照圖、街景畫面或其他測繪資料建立幾何。此原創街區僅供遊戲測試，不可用於導航、勘測或房產判斷。</p><p>這是公開的 GitHub Pages 測試版。遊戲不讀取裝置定位，不含分析追蹤；載入網站時會向 GitHub Pages 請求遊戲檔案。</p></section></div><p class="info-foot">引擎：Three.js（MIT）・原創程序化角色與街區模型</p></dialog>
+<section id="error-screen" class="error-screen" role="alert" hidden><div class="error-card"><p class="eyebrow">LET’S GET YOU BACK OUTSIDE</p><h2>暫時無法載入街區</h2><p id="error-message"></p><ol><li>確認網路連線正常，重新整理頁面。</li><li>首次載入需下載約 7 MB 的遊戲素材，請稍候。</li><li>使用支援 WebGL 2 的新版瀏覽器，並開啟硬體加速。</li></ol><button id="reload-button" class="primary-button">重新載入</button><details><summary>技術資訊</summary><pre id="error-detail"></pre></details></div></section>
+<noscript><div class="error-screen"><div class="error-card"><h2>這個遊戲需要 JavaScript</h2><p>請在瀏覽器允許 JavaScript，並使用附帶的本機啟動器。</p></div></div></noscript>
+</body>
+</html>

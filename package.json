@@ -1,0 +1,16 @@
+{
+  "name": "neighborhood-walk-prototype",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Original approximate third-person neighborhood walking prototype",
+  "scripts": {
+    "build": "node build.mjs",
+    "test": "node --test tests/physics.test.mjs verification/level.test.mjs"
+  },
+  "dependencies": {
+    "three": "0.180.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2"
+  }
+}

@@ -1,0 +1,1388 @@
+[
+  {
+    "minX": -72.275,
+    "maxX": -65.725,
+    "minZ": 7.3,
+    "maxZ": 18.7,
+    "minY": 0,
+    "maxY": 14.0,
+    "name": "House 01 / collision"
+  },
+  {
+    "minX": -65.275,
+    "maxX": -58.725,
+    "minZ": 7.3,
+    "maxZ": 18.7,
+    "minY": 0,
+    "maxY": 13.6,
+    "name": "House 02 / collision"
+  },
+  {
+    "minX": -58.275,
+    "maxX": -51.725,
+    "minZ": 7.3,
+    "maxZ": 18.7,
+    "minY": 0,
+    "maxY": 13.2,
+    "name": "House 03 / collision"
+  },
+  {
+    "minX": -51.275,
+    "maxX": -44.725,
+    "minZ": 7.3,
+    "maxZ": 18.7,
+    "minY": 0,
+    "maxY": 13.6,
+    "name": "House 04 / collision"
+  },
+  {
+    "minX": -44.275,
+    "maxX": -37.725,
+    "minZ": 7.3,
+    "maxZ": 18.7,
+    "minY": 0,
+    "maxY": 14.0,
+    "name": "House 05 / collision"
+  },
+  {
+    "minX": -37.275,
+    "maxX": -30.725,
+    "minZ": 7.3,
+    "maxZ": 18.7,
+    "minY": 0,
+    "maxY": 13.6,
+    "name": "House 06 / collision"
+  },
+  {
+    "minX": -30.275,
+    "maxX": -23.725,
+    "minZ": 7.3,
+    "maxZ": 18.7,
+    "minY": 0,
+    "maxY": 13.6,
+    "name": "House 07 / collision"
+  },
+  {
+    "minX": -23.275,
+    "maxX": -16.725,
+    "minZ": 7.3,
+    "maxZ": 18.7,
+    "minY": 0,
+    "maxY": 12.8,
+    "name": "House 08 / collision"
+  },
+  {
+    "minX": -16.275,
+    "maxX": -9.725,
+    "minZ": 7.3,
+    "maxZ": 18.7,
+    "minY": 0,
+    "maxY": 13.2,
+    "name": "House 09 / collision"
+  },
+  {
+    "minX": 9.725,
+    "maxX": 16.275,
+    "minZ": 7.3,
+    "maxZ": 18.7,
+    "minY": 0,
+    "maxY": 13.6,
+    "name": "House 10 / collision"
+  },
+  {
+    "minX": 16.725,
+    "maxX": 23.275,
+    "minZ": 7.3,
+    "maxZ": 18.7,
+    "minY": 0,
+    "maxY": 12.8,
+    "name": "House 11 / collision"
+  },
+  {
+    "minX": 23.725,
+    "maxX": 30.275,
+    "minZ": 7.3,
+    "maxZ": 18.7,
+    "minY": 0,
+    "maxY": 13.2,
+    "name": "House 12 / collision"
+  },
+  {
+    "minX": 30.725,
+    "maxX": 37.275,
+    "minZ": 7.3,
+    "maxZ": 18.7,
+    "minY": 0,
+    "maxY": 14.0,
+    "name": "House 13 / collision"
+  },
+  {
+    "minX": 37.725,
+    "maxX": 44.275,
+    "minZ": 7.3,
+    "maxZ": 18.7,
+    "minY": 0,
+    "maxY": 13.6,
+    "name": "House 14 / collision"
+  },
+  {
+    "minX": 44.725,
+    "maxX": 51.275,
+    "minZ": 7.3,
+    "maxZ": 18.7,
+    "minY": 0,
+    "maxY": 13.6,
+    "name": "House 15 / collision"
+  },
+  {
+    "minX": 51.725,
+    "maxX": 58.275,
+    "minZ": 7.3,
+    "maxZ": 18.7,
+    "minY": 0,
+    "maxY": 12.8,
+    "name": "House 16 / collision"
+  },
+  {
+    "minX": 58.725,
+    "maxX": 65.275,
+    "minZ": 7.3,
+    "maxZ": 18.7,
+    "minY": 0,
+    "maxY": 14.0,
+    "name": "House 17 / collision"
+  },
+  {
+    "minX": 65.725,
+    "maxX": 72.275,
+    "minZ": 7.3,
+    "maxZ": 18.7,
+    "minY": 0,
+    "maxY": 14.0,
+    "name": "House 18 / collision"
+  },
+  {
+    "minX": -72.275,
+    "maxX": -65.725,
+    "minZ": -18.7,
+    "maxZ": -7.3,
+    "minY": 0,
+    "maxY": 13.2,
+    "name": "House 19 / collision"
+  },
+  {
+    "minX": -65.275,
+    "maxX": -58.725,
+    "minZ": -18.7,
+    "maxZ": -7.3,
+    "minY": 0,
+    "maxY": 13.6,
+    "name": "House 20 / collision"
+  },
+  {
+    "minX": -58.275,
+    "maxX": -51.725,
+    "minZ": -18.7,
+    "maxZ": -7.3,
+    "minY": 0,
+    "maxY": 12.8,
+    "name": "House 21 / collision"
+  },
+  {
+    "minX": -51.275,
+    "maxX": -44.725,
+    "minZ": -18.7,
+    "maxZ": -7.3,
+    "minY": 0,
+    "maxY": 14.0,
+    "name": "House 22 / collision"
+  },
+  {
+    "minX": -44.275,
+    "maxX": -37.725,
+    "minZ": -18.7,
+    "maxZ": -7.3,
+    "minY": 0,
+    "maxY": 14.0,
+    "name": "House 23 / collision"
+  },
+  {
+    "minX": -37.275,
+    "maxX": -30.725,
+    "minZ": -18.7,
+    "maxZ": -7.3,
+    "minY": 0,
+    "maxY": 13.6,
+    "name": "House 24 / collision"
+  },
+  {
+    "minX": -30.275,
+    "maxX": -23.725,
+    "minZ": -18.7,
+    "maxZ": -7.3,
+    "minY": 0,
+    "maxY": 13.6,
+    "name": "House 25 / collision"
+  },
+  {
+    "minX": -23.275,
+    "maxX": -16.725,
+    "minZ": -18.7,
+    "maxZ": -7.3,
+    "minY": 0,
+    "maxY": 13.2,
+    "name": "House 26 / collision"
+  },
+  {
+    "minX": -16.275,
+    "maxX": -9.725,
+    "minZ": -18.7,
+    "maxZ": -7.3,
+    "minY": 0,
+    "maxY": 12.8,
+    "name": "House 27 / collision"
+  },
+  {
+    "minX": 9.725,
+    "maxX": 16.275,
+    "minZ": -18.7,
+    "maxZ": -7.3,
+    "minY": 0,
+    "maxY": 14.0,
+    "name": "House 28 / collision"
+  },
+  {
+    "minX": 16.725,
+    "maxX": 23.275,
+    "minZ": -18.7,
+    "maxZ": -7.3,
+    "minY": 0,
+    "maxY": 13.2,
+    "name": "House 29 / collision"
+  },
+  {
+    "minX": 23.725,
+    "maxX": 30.275,
+    "minZ": -18.7,
+    "maxZ": -7.3,
+    "minY": 0,
+    "maxY": 12.8,
+    "name": "House 30 / collision"
+  },
+  {
+    "minX": 30.725,
+    "maxX": 37.275,
+    "minZ": -18.7,
+    "maxZ": -7.3,
+    "minY": 0,
+    "maxY": 13.2,
+    "name": "House 31 / collision"
+  },
+  {
+    "minX": 37.725,
+    "maxX": 44.275,
+    "minZ": -18.7,
+    "maxZ": -7.3,
+    "minY": 0,
+    "maxY": 14.0,
+    "name": "House 32 / collision"
+  },
+  {
+    "minX": 44.725,
+    "maxX": 51.275,
+    "minZ": -18.7,
+    "maxZ": -7.3,
+    "minY": 0,
+    "maxY": 13.2,
+    "name": "House 33 / collision"
+  },
+  {
+    "minX": 51.725,
+    "maxX": 58.275,
+    "minZ": -18.7,
+    "maxZ": -7.3,
+    "minY": 0,
+    "maxY": 13.6,
+    "name": "House 34 / collision"
+  },
+  {
+    "minX": 58.725,
+    "maxX": 65.275,
+    "minZ": -18.7,
+    "maxZ": -7.3,
+    "minY": 0,
+    "maxY": 12.8,
+    "name": "House 35 / collision"
+  },
+  {
+    "minX": 65.725,
+    "maxX": 72.275,
+    "minZ": -18.7,
+    "maxZ": -7.3,
+    "minY": 0,
+    "maxY": 13.6,
+    "name": "House 36 / collision"
+  },
+  {
+    "minX": -65.275,
+    "maxX": -58.725,
+    "minZ": 40.3,
+    "maxZ": 51.7,
+    "minY": 0,
+    "maxY": 13.6,
+    "name": "House 37 / collision"
+  },
+  {
+    "minX": -58.275,
+    "maxX": -51.725,
+    "minZ": 40.3,
+    "maxZ": 51.7,
+    "minY": 0,
+    "maxY": 13.2,
+    "name": "House 38 / collision"
+  },
+  {
+    "minX": -51.275,
+    "maxX": -44.725,
+    "minZ": 40.3,
+    "maxZ": 51.7,
+    "minY": 0,
+    "maxY": 13.2,
+    "name": "House 39 / collision"
+  },
+  {
+    "minX": -44.275,
+    "maxX": -37.725,
+    "minZ": 40.3,
+    "maxZ": 51.7,
+    "minY": 0,
+    "maxY": 13.2,
+    "name": "House 40 / collision"
+  },
+  {
+    "minX": -37.275,
+    "maxX": -30.725,
+    "minZ": 40.3,
+    "maxZ": 51.7,
+    "minY": 0,
+    "maxY": 12.8,
+    "name": "House 41 / collision"
+  },
+  {
+    "minX": -30.275,
+    "maxX": -23.725,
+    "minZ": 40.3,
+    "maxZ": 51.7,
+    "minY": 0,
+    "maxY": 12.8,
+    "name": "House 42 / collision"
+  },
+  {
+    "minX": -23.275,
+    "maxX": -16.725,
+    "minZ": 40.3,
+    "maxZ": 51.7,
+    "minY": 0,
+    "maxY": 14.0,
+    "name": "House 43 / collision"
+  },
+  {
+    "minX": -16.275,
+    "maxX": -9.725,
+    "minZ": 40.3,
+    "maxZ": 51.7,
+    "minY": 0,
+    "maxY": 13.6,
+    "name": "House 44 / collision"
+  },
+  {
+    "minX": 9.725,
+    "maxX": 16.275,
+    "minZ": 40.3,
+    "maxZ": 51.7,
+    "minY": 0,
+    "maxY": 14.0,
+    "name": "House 45 / collision"
+  },
+  {
+    "minX": 16.725,
+    "maxX": 23.275,
+    "minZ": 40.3,
+    "maxZ": 51.7,
+    "minY": 0,
+    "maxY": 14.0,
+    "name": "House 46 / collision"
+  },
+  {
+    "minX": 23.725,
+    "maxX": 30.275,
+    "minZ": 40.3,
+    "maxZ": 51.7,
+    "minY": 0,
+    "maxY": 13.6,
+    "name": "House 47 / collision"
+  },
+  {
+    "minX": 30.725,
+    "maxX": 37.275,
+    "minZ": 40.3,
+    "maxZ": 51.7,
+    "minY": 0,
+    "maxY": 13.6,
+    "name": "House 48 / collision"
+  },
+  {
+    "minX": 37.725,
+    "maxX": 44.275,
+    "minZ": 40.3,
+    "maxZ": 51.7,
+    "minY": 0,
+    "maxY": 12.8,
+    "name": "House 49 / collision"
+  },
+  {
+    "minX": 44.725,
+    "maxX": 51.275,
+    "minZ": 40.3,
+    "maxZ": 51.7,
+    "minY": 0,
+    "maxY": 13.6,
+    "name": "House 50 / collision"
+  },
+  {
+    "minX": 51.725,
+    "maxX": 58.275,
+    "minZ": 40.3,
+    "maxZ": 51.7,
+    "minY": 0,
+    "maxY": 12.8,
+    "name": "House 51 / collision"
+  },
+  {
+    "minX": 58.725,
+    "maxX": 65.275,
+    "minZ": 40.3,
+    "maxZ": 51.7,
+    "minY": 0,
+    "maxY": 14.0,
+    "name": "House 52 / collision"
+  },
+  {
+    "minX": -37.275,
+    "maxX": -30.725,
+    "minZ": -51.7,
+    "maxZ": -40.3,
+    "minY": 0,
+    "maxY": 13.6,
+    "name": "House 53 / collision"
+  },
+  {
+    "minX": -30.275,
+    "maxX": -23.725,
+    "minZ": -51.7,
+    "maxZ": -40.3,
+    "minY": 0,
+    "maxY": 12.8,
+    "name": "House 54 / collision"
+  },
+  {
+    "minX": -23.275,
+    "maxX": -16.725,
+    "minZ": -51.7,
+    "maxZ": -40.3,
+    "minY": 0,
+    "maxY": 13.6,
+    "name": "House 55 / collision"
+  },
+  {
+    "minX": -16.275,
+    "maxX": -9.725,
+    "minZ": -51.7,
+    "maxZ": -40.3,
+    "minY": 0,
+    "maxY": 13.2,
+    "name": "House 56 / collision"
+  },
+  {
+    "minX": 9.725,
+    "maxX": 16.275,
+    "minZ": -51.7,
+    "maxZ": -40.3,
+    "minY": 0,
+    "maxY": 14.0,
+    "name": "House 57 / collision"
+  },
+  {
+    "minX": 16.725,
+    "maxX": 23.275,
+    "minZ": -51.7,
+    "maxZ": -40.3,
+    "minY": 0,
+    "maxY": 14.0,
+    "name": "House 58 / collision"
+  },
+  {
+    "minX": 23.725,
+    "maxX": 30.275,
+    "minZ": -51.7,
+    "maxZ": -40.3,
+    "minY": 0,
+    "maxY": 12.8,
+    "name": "House 59 / collision"
+  },
+  {
+    "minX": 30.725,
+    "maxX": 37.275,
+    "minZ": -51.7,
+    "maxZ": -40.3,
+    "minY": 0,
+    "maxY": 13.6,
+    "name": "House 60 / collision"
+  },
+  {
+    "minX": 37.725,
+    "maxX": 44.275,
+    "minZ": -51.7,
+    "maxZ": -40.3,
+    "minY": 0,
+    "maxY": 14.0,
+    "name": "House 61 / collision"
+  },
+  {
+    "minX": 44.725,
+    "maxX": 51.275,
+    "minZ": -51.7,
+    "maxZ": -40.3,
+    "minY": 0,
+    "maxY": 14.0,
+    "name": "House 62 / collision"
+  },
+  {
+    "minX": 51.725,
+    "maxX": 58.275,
+    "minZ": -51.7,
+    "maxZ": -40.3,
+    "minY": 0,
+    "maxY": 13.6,
+    "name": "House 63 / collision"
+  },
+  {
+    "minX": 58.725,
+    "maxX": 65.275,
+    "minZ": -51.7,
+    "maxZ": -40.3,
+    "minY": 0,
+    "maxY": 13.6,
+    "name": "House 64 / collision"
+  },
+  {
+    "minX": -76.26,
+    "maxX": -75.74,
+    "minZ": 39.74,
+    "maxZ": 40.26,
+    "minY": 0,
+    "maxY": 4.338,
+    "name": "Tree trunk 01"
+  },
+  {
+    "minX": -76.283,
+    "maxX": -75.717,
+    "minZ": 18.717,
+    "maxZ": 19.283,
+    "minY": 0,
+    "maxY": 4.711,
+    "name": "Tree trunk 02"
+  },
+  {
+    "minX": -76.273,
+    "maxX": -75.727,
+    "minZ": -17.273,
+    "maxZ": -16.727,
+    "minY": 0,
+    "maxY": 4.551,
+    "name": "Tree trunk 03"
+  },
+  {
+    "minX": -76.216,
+    "maxX": -75.784,
+    "minZ": -40.216,
+    "maxZ": -39.784,
+    "minY": 0,
+    "maxY": 3.593,
+    "name": "Tree trunk 04"
+  },
+  {
+    "minX": 75.742,
+    "maxX": 76.258,
+    "minZ": 39.742,
+    "maxZ": 40.258,
+    "minY": 0,
+    "maxY": 4.297,
+    "name": "Tree trunk 05"
+  },
+  {
+    "minX": 75.72,
+    "maxX": 76.28,
+    "minZ": 18.72,
+    "maxZ": 19.28,
+    "minY": 0,
+    "maxY": 4.671,
+    "name": "Tree trunk 06"
+  },
+  {
+    "minX": 75.772,
+    "maxX": 76.228,
+    "minZ": -17.228,
+    "maxZ": -16.772,
+    "minY": 0,
+    "maxY": 3.808,
+    "name": "Tree trunk 07"
+  },
+  {
+    "minX": 75.783,
+    "maxX": 76.217,
+    "minZ": -40.217,
+    "maxZ": -39.783,
+    "minY": 0,
+    "maxY": 3.62,
+    "name": "Tree trunk 08"
+  },
+  {
+    "minX": -46.195,
+    "maxX": -45.805,
+    "minZ": 24.805,
+    "maxZ": 25.195,
+    "minY": 0,
+    "maxY": 3.25,
+    "name": "Tree trunk 09"
+  },
+  {
+    "minX": -30.195,
+    "maxX": -29.805,
+    "minZ": 24.805,
+    "maxZ": 25.195,
+    "minY": 0,
+    "maxY": 3.25,
+    "name": "Tree trunk 10"
+  },
+  {
+    "minX": 29.805,
+    "maxX": 30.195,
+    "minZ": 24.805,
+    "maxZ": 25.195,
+    "minY": 0,
+    "maxY": 3.25,
+    "name": "Tree trunk 11"
+  },
+  {
+    "minX": 61.805,
+    "maxX": 62.195,
+    "minZ": 24.805,
+    "maxZ": 25.195,
+    "minY": 0,
+    "maxY": 3.25,
+    "name": "Tree trunk 12"
+  },
+  {
+    "minX": -62.195,
+    "maxX": -61.805,
+    "minZ": -24.195,
+    "maxZ": -23.805,
+    "minY": 0,
+    "maxY": 3.25,
+    "name": "Tree trunk 13"
+  },
+  {
+    "minX": -46.195,
+    "maxX": -45.805,
+    "minZ": -24.195,
+    "maxZ": -23.805,
+    "minY": 0,
+    "maxY": 3.25,
+    "name": "Tree trunk 14"
+  },
+  {
+    "minX": -30.195,
+    "maxX": -29.805,
+    "minZ": -24.195,
+    "maxZ": -23.805,
+    "minY": 0,
+    "maxY": 3.25,
+    "name": "Tree trunk 15"
+  },
+  {
+    "minX": 29.805,
+    "maxX": 30.195,
+    "minZ": -24.195,
+    "maxZ": -23.805,
+    "minY": 0,
+    "maxY": 3.25,
+    "name": "Tree trunk 16"
+  },
+  {
+    "minX": 61.805,
+    "maxX": 62.195,
+    "minZ": -24.195,
+    "maxZ": -23.805,
+    "minY": 0,
+    "maxY": 3.25,
+    "name": "Tree trunk 17"
+  },
+  {
+    "minX": -62.195,
+    "maxX": -61.805,
+    "minZ": -59.195,
+    "maxZ": -58.805,
+    "minY": 0,
+    "maxY": 3.25,
+    "name": "Tree trunk 18"
+  },
+  {
+    "minX": -30.195,
+    "maxX": -29.805,
+    "minZ": -59.195,
+    "maxZ": -58.805,
+    "minY": 0,
+    "maxY": 3.25,
+    "name": "Tree trunk 19"
+  },
+  {
+    "minX": 29.805,
+    "maxX": 30.195,
+    "minZ": -59.195,
+    "maxZ": -58.805,
+    "minY": 0,
+    "maxY": 3.25,
+    "name": "Tree trunk 20"
+  },
+  {
+    "minX": 45.805,
+    "maxX": 46.195,
+    "minZ": -59.195,
+    "maxZ": -58.805,
+    "minY": 0,
+    "maxY": 3.25,
+    "name": "Tree trunk 21"
+  },
+  {
+    "minX": 61.805,
+    "maxX": 62.195,
+    "minZ": -59.195,
+    "maxZ": -58.805,
+    "minY": 0,
+    "maxY": 3.25,
+    "name": "Tree trunk 22"
+  },
+  {
+    "minX": 45.805,
+    "maxX": 46.195,
+    "minZ": 58.805,
+    "maxZ": 59.195,
+    "minY": 0,
+    "maxY": 3.25,
+    "name": "Tree trunk 23"
+  },
+  {
+    "minX": -61.339,
+    "maxX": -60.661,
+    "minZ": -41.339,
+    "maxZ": -40.661,
+    "minY": 0,
+    "maxY": 5.65,
+    "name": "Tree trunk 24"
+  },
+  {
+    "minX": -42.339,
+    "maxX": -41.661,
+    "minZ": -41.339,
+    "maxZ": -40.661,
+    "minY": 0,
+    "maxY": 5.65,
+    "name": "Tree trunk 25"
+  },
+  {
+    "minX": -60.339,
+    "maxX": -59.661,
+    "minZ": -54.339,
+    "maxZ": -53.661,
+    "minY": 0,
+    "maxY": 5.65,
+    "name": "Tree trunk 26"
+  },
+  {
+    "minX": -42.339,
+    "maxX": -41.661,
+    "minZ": -54.339,
+    "maxZ": -53.661,
+    "minY": 0,
+    "maxY": 5.65,
+    "name": "Tree trunk 27"
+  },
+  {
+    "minX": -54.339,
+    "maxX": -53.661,
+    "minZ": -55.339,
+    "maxZ": -54.661,
+    "minY": 0,
+    "maxY": 5.65,
+    "name": "Tree trunk 28"
+  },
+  {
+    "minX": -58.15,
+    "maxX": -55.85,
+    "minZ": -45.5,
+    "maxZ": -44.5,
+    "minY": 0,
+    "maxY": 1.2,
+    "name": "Park bench"
+  },
+  {
+    "minX": -46.15,
+    "maxX": -43.85,
+    "minZ": -49.5,
+    "maxZ": -48.5,
+    "minY": 0,
+    "maxY": 1.2,
+    "name": "Park bench"
+  },
+  {
+    "minX": -58.99,
+    "maxX": -57.01,
+    "minZ": 70.96,
+    "maxZ": 75.04,
+    "minY": 0,
+    "maxY": 1.7,
+    "name": "Parked car 01"
+  },
+  {
+    "minX": -52.99,
+    "maxX": -51.01,
+    "minZ": 70.96,
+    "maxZ": 75.04,
+    "minY": 0,
+    "maxY": 1.7,
+    "name": "Parked car 02"
+  },
+  {
+    "minX": -40.99,
+    "maxX": -39.01,
+    "minZ": 70.96,
+    "maxZ": 75.04,
+    "minY": 0,
+    "maxY": 1.7,
+    "name": "Parked car 03"
+  },
+  {
+    "minX": 25.96,
+    "maxX": 30.04,
+    "minZ": 23.01,
+    "maxZ": 24.99,
+    "minY": 0,
+    "maxY": 1.7,
+    "name": "Parked car 04"
+  },
+  {
+    "minX": -41.04,
+    "maxX": -36.96,
+    "minZ": -24.99,
+    "maxZ": -23.01,
+    "minY": 0,
+    "maxY": 1.7,
+    "name": "Parked car 05"
+  },
+  {
+    "minX": 44.96,
+    "maxX": 49.04,
+    "minZ": -24.99,
+    "maxZ": -23.01,
+    "minY": 0,
+    "maxY": 1.7,
+    "name": "Parked car 06"
+  },
+  {
+    "minX": 85.01,
+    "maxX": 86.99,
+    "minZ": 9.96,
+    "maxZ": 14.04,
+    "minY": 0,
+    "maxY": 1.7,
+    "name": "Parked car 07"
+  },
+  {
+    "minX": -17.35,
+    "maxX": -16.65,
+    "minZ": -6.825,
+    "maxZ": -5.175,
+    "minY": 0,
+    "maxY": 1.25,
+    "name": "Parked scooter 01"
+  },
+  {
+    "minX": -19.35,
+    "maxX": -18.65,
+    "minZ": -6.825,
+    "maxZ": -5.175,
+    "minY": 0,
+    "maxY": 1.25,
+    "name": "Parked scooter 02"
+  },
+  {
+    "minX": -24.35,
+    "maxX": -23.65,
+    "minZ": -6.825,
+    "maxZ": -5.175,
+    "minY": 0,
+    "maxY": 1.25,
+    "name": "Parked scooter 03"
+  },
+  {
+    "minX": 16.65,
+    "maxX": 17.35,
+    "minZ": 5.175,
+    "maxZ": 6.825,
+    "minY": 0,
+    "maxY": 1.25,
+    "name": "Parked scooter 04"
+  },
+  {
+    "minX": 18.65,
+    "maxX": 19.35,
+    "minZ": 5.175,
+    "maxZ": 6.825,
+    "minY": 0,
+    "maxY": 1.25,
+    "name": "Parked scooter 05"
+  },
+  {
+    "minX": 23.65,
+    "maxX": 24.35,
+    "minZ": 5.175,
+    "maxZ": 6.825,
+    "minY": 0,
+    "maxY": 1.25,
+    "name": "Parked scooter 06"
+  },
+  {
+    "minX": -29.35,
+    "maxX": -28.65,
+    "minZ": 25.175,
+    "maxZ": 26.825,
+    "minY": 0,
+    "maxY": 1.25,
+    "name": "Parked scooter 07"
+  },
+  {
+    "minX": 28.65,
+    "maxX": 29.35,
+    "minZ": -26.825,
+    "maxZ": -25.175,
+    "minY": 0,
+    "maxY": 1.25,
+    "name": "Parked scooter 08"
+  },
+  {
+    "minX": 43.65,
+    "maxX": 44.35,
+    "minZ": -6.825,
+    "maxZ": -5.175,
+    "minY": 0,
+    "maxY": 1.25,
+    "name": "Parked scooter 09"
+  },
+  {
+    "minX": 45.65,
+    "maxX": 46.35,
+    "minZ": -6.825,
+    "maxZ": -5.175,
+    "minY": 0,
+    "maxY": 1.25,
+    "name": "Parked scooter 10"
+  },
+  {
+    "minX": 84.303,
+    "maxX": 84.852,
+    "minZ": -9.978,
+    "maxZ": -9.43,
+    "minY": 0,
+    "maxY": 4.569,
+    "name": "Tree trunk 29"
+  },
+  {
+    "minX": 92.481,
+    "maxX": 93.033,
+    "minZ": -21.845,
+    "maxZ": -21.294,
+    "minY": 0,
+    "maxY": 4.592,
+    "name": "Tree trunk 30"
+  },
+  {
+    "minX": 80.215,
+    "maxX": 80.867,
+    "minZ": -29.063,
+    "maxZ": -28.411,
+    "minY": 0,
+    "maxY": 5.434,
+    "name": "Tree trunk 31"
+  },
+  {
+    "minX": 85.678,
+    "maxX": 86.211,
+    "minZ": -42.522,
+    "maxZ": -41.99,
+    "minY": 0,
+    "maxY": 4.44,
+    "name": "Tree trunk 32"
+  },
+  {
+    "minX": 77.26,
+    "maxX": 77.752,
+    "minZ": -50.056,
+    "maxZ": -49.564,
+    "minY": 0,
+    "maxY": 4.098,
+    "name": "Tree trunk 33"
+  },
+  {
+    "minX": 71.691,
+    "maxX": 72.23,
+    "minZ": -59.111,
+    "maxZ": -58.572,
+    "minY": 0,
+    "maxY": 4.49,
+    "name": "Tree trunk 34"
+  },
+  {
+    "minX": 54.512,
+    "maxX": 55.073,
+    "minZ": -71.337,
+    "maxZ": -70.776,
+    "minY": 0,
+    "maxY": 4.673,
+    "name": "Tree trunk 35"
+  },
+  {
+    "minX": 48.883,
+    "maxX": 49.566,
+    "minZ": -81.972,
+    "maxZ": -81.288,
+    "minY": 0,
+    "maxY": 5.697,
+    "name": "Tree trunk 36"
+  },
+  {
+    "minX": 38.598,
+    "maxX": 39.285,
+    "minZ": -85.614,
+    "maxZ": -84.927,
+    "minY": 0,
+    "maxY": 5.724,
+    "name": "Tree trunk 37"
+  },
+  {
+    "minX": 27.063,
+    "maxX": 27.598,
+    "minZ": -84.383,
+    "maxZ": -83.848,
+    "minY": 0,
+    "maxY": 4.458,
+    "name": "Tree trunk 38"
+  },
+  {
+    "minX": 18.059,
+    "maxX": 18.809,
+    "minZ": -91.351,
+    "maxZ": -90.602,
+    "minY": 0,
+    "maxY": 6.247,
+    "name": "Tree trunk 39"
+  },
+  {
+    "minX": -12.75,
+    "maxX": -12.09,
+    "minZ": -86.712,
+    "maxZ": -86.051,
+    "minY": 0,
+    "maxY": 5.502,
+    "name": "Tree trunk 40"
+  },
+  {
+    "minX": -24.051,
+    "maxX": -23.407,
+    "minZ": -90.596,
+    "maxZ": -89.953,
+    "minY": 0,
+    "maxY": 5.362,
+    "name": "Tree trunk 41"
+  },
+  {
+    "minX": -34.896,
+    "maxX": -34.234,
+    "minZ": -89.11,
+    "maxZ": -88.448,
+    "minY": 0,
+    "maxY": 5.517,
+    "name": "Tree trunk 42"
+  },
+  {
+    "minX": -43.77,
+    "maxX": -43.179,
+    "minZ": -82.688,
+    "maxZ": -82.097,
+    "minY": 0,
+    "maxY": 4.926,
+    "name": "Tree trunk 43"
+  },
+  {
+    "minX": -66.129,
+    "maxX": -65.557,
+    "minZ": -60.716,
+    "maxZ": -60.144,
+    "minY": 0,
+    "maxY": 4.769,
+    "name": "Tree trunk 44"
+  },
+  {
+    "minX": -71.743,
+    "maxX": -71.208,
+    "minZ": -52.198,
+    "maxZ": -51.662,
+    "minY": 0,
+    "maxY": 4.464,
+    "name": "Tree trunk 45"
+  },
+  {
+    "minX": -74.405,
+    "maxX": -73.784,
+    "minZ": -42.154,
+    "maxZ": -41.532,
+    "minY": 0,
+    "maxY": 5.18,
+    "name": "Tree trunk 46"
+  },
+  {
+    "minX": -85.674,
+    "maxX": -85.184,
+    "minZ": -36.348,
+    "maxZ": -35.857,
+    "minY": 0,
+    "maxY": 4.087,
+    "name": "Tree trunk 47"
+  },
+  {
+    "minX": -83.834,
+    "maxX": -83.164,
+    "minZ": -24.853,
+    "maxZ": -24.183,
+    "minY": 0,
+    "maxY": 5.584,
+    "name": "Tree trunk 48"
+  },
+  {
+    "minX": -94.031,
+    "maxX": -93.287,
+    "minZ": -16.581,
+    "maxZ": -15.836,
+    "minY": 0,
+    "maxY": 6.207,
+    "name": "Tree trunk 49"
+  },
+  {
+    "minX": -92.912,
+    "maxX": -92.25,
+    "minZ": 15.691,
+    "maxZ": 16.353,
+    "minY": 0,
+    "maxY": 5.518,
+    "name": "Tree trunk 50"
+  },
+  {
+    "minX": -85.764,
+    "maxX": -85.152,
+    "minZ": 24.786,
+    "maxZ": 25.399,
+    "minY": 0,
+    "maxY": 5.106,
+    "name": "Tree trunk 51"
+  },
+  {
+    "minX": -84.774,
+    "maxX": -84.129,
+    "minZ": 35.367,
+    "maxZ": 36.012,
+    "minY": 0,
+    "maxY": 5.376,
+    "name": "Tree trunk 52"
+  },
+  {
+    "minX": -78.846,
+    "maxX": -78.244,
+    "minZ": 44.055,
+    "maxZ": 44.657,
+    "minY": 0,
+    "maxY": 5.017,
+    "name": "Tree trunk 53"
+  },
+  {
+    "minX": -69.962,
+    "maxX": -69.274,
+    "minZ": 50.236,
+    "maxZ": 50.924,
+    "minY": 0,
+    "maxY": 5.734,
+    "name": "Tree trunk 54"
+  },
+  {
+    "minX": -63.125,
+    "maxX": -62.377,
+    "minZ": 57.218,
+    "maxZ": 57.966,
+    "minY": 0,
+    "maxY": 6.237,
+    "name": "Tree trunk 55"
+  },
+  {
+    "minX": -49.674,
+    "maxX": -49.221,
+    "minZ": 72.089,
+    "maxZ": 72.542,
+    "minY": 0,
+    "maxY": 3.774,
+    "name": "Tree trunk 56"
+  },
+  {
+    "minX": -41.167,
+    "maxX": -40.596,
+    "minZ": 77.194,
+    "maxZ": 77.764,
+    "minY": 0,
+    "maxY": 4.753,
+    "name": "Tree trunk 57"
+  },
+  {
+    "minX": -34.905,
+    "maxX": -34.218,
+    "minZ": 88.427,
+    "maxZ": 89.114,
+    "minY": 0,
+    "maxY": 5.728,
+    "name": "Tree trunk 58"
+  },
+  {
+    "minX": -23.563,
+    "maxX": -22.921,
+    "minZ": 88.102,
+    "maxZ": 88.744,
+    "minY": 0,
+    "maxY": 5.348,
+    "name": "Tree trunk 59"
+  },
+  {
+    "minX": -12.734,
+    "maxX": -12.085,
+    "minZ": 85.984,
+    "maxZ": 86.634,
+    "minY": 0,
+    "maxY": 5.411,
+    "name": "Tree trunk 60"
+  },
+  {
+    "minX": 18.269,
+    "maxX": 18.864,
+    "minZ": 91.332,
+    "maxZ": 91.927,
+    "minY": 0,
+    "maxY": 4.956,
+    "name": "Tree trunk 61"
+  },
+  {
+    "minX": 27.484,
+    "maxX": 27.968,
+    "minZ": 85.09,
+    "maxZ": 85.574,
+    "minY": 0,
+    "maxY": 4.039,
+    "name": "Tree trunk 62"
+  },
+  {
+    "minX": 36.738,
+    "maxX": 37.416,
+    "minZ": 80.848,
+    "maxZ": 81.526,
+    "minY": 0,
+    "maxY": 5.653,
+    "name": "Tree trunk 63"
+  },
+  {
+    "minX": 43.868,
+    "maxX": 44.329,
+    "minZ": 72.899,
+    "maxZ": 73.36,
+    "minY": 0,
+    "maxY": 3.846,
+    "name": "Tree trunk 64"
+  },
+  {
+    "minX": 55.118,
+    "maxX": 55.622,
+    "minZ": 71.553,
+    "maxZ": 72.057,
+    "minY": 0,
+    "maxY": 4.197,
+    "name": "Tree trunk 65"
+  },
+  {
+    "minX": 68.564,
+    "maxX": 69.264,
+    "minZ": 56.001,
+    "maxZ": 56.7,
+    "minY": 0,
+    "maxY": 5.829,
+    "name": "Tree trunk 66"
+  },
+  {
+    "minX": 78.649,
+    "maxX": 79.312,
+    "minZ": 50.426,
+    "maxZ": 51.089,
+    "minY": 0,
+    "maxY": 5.526,
+    "name": "Tree trunk 67"
+  },
+  {
+    "minX": 77.463,
+    "maxX": 77.971,
+    "minZ": 37.957,
+    "maxZ": 38.465,
+    "minY": 0,
+    "maxY": 4.229,
+    "name": "Tree trunk 68"
+  },
+  {
+    "minX": 88.302,
+    "maxX": 88.891,
+    "minZ": 31.316,
+    "maxZ": 31.906,
+    "minY": 0,
+    "maxY": 4.914,
+    "name": "Tree trunk 69"
+  },
+  {
+    "minX": 86.357,
+    "maxX": 86.978,
+    "minZ": 19.843,
+    "maxZ": 20.464,
+    "minY": 0,
+    "maxY": 5.173,
+    "name": "Tree trunk 70"
+  },
+  {
+    "minX": 92.76,
+    "maxX": 93.399,
+    "minZ": 10.361,
+    "maxZ": 10.999,
+    "minY": 0,
+    "maxY": 5.322,
+    "name": "Tree trunk 71"
+  }
+]
